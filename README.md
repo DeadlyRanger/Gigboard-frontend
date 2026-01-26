@@ -13,7 +13,6 @@ Demo: https://gigboard-frontend.vercel.app
 - Available scripts
 - Environment
 - Deployment
-- Screenshots
 - Contributing
 - License
 
@@ -72,21 +71,8 @@ Do not commit secrets to the repository.
 This project is hosted at: https://gigboard-frontend.vercel.app
 To deploy, you can connect the repository to Vercel (recommended) or another static hosting provider.
 
-## Screenshots
-Below are placeholder snapshots added to this repository. Replace them with real screenshots by uploading images to the screenshots/ folder and updating the README paths if needed.
-
-![Desktop snapshot](./screenshots/desktop.svg)
-
-![Dashboard snapshot](./screenshots/dashboard.svg)
-
-![Mobile snapshot](./screenshots/mobile.svg)
-
 ## Contributing
 Contributions are welcome. Please open an issue or submit a pull request. Add clear descriptions for changes and follow repository conventions.
 
 ## License
 This repository does not currently include a license file. Add a LICENSE file if you want to define terms for reuse.
-
----
-
-If you'd like different image sizes, additional screenshots, or a .gitkeep in the screenshots folder, tell me and I will update the repo accordingly.
